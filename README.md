@@ -1,3 +1,9 @@
-# SPD2022_TPS
-UTN - Sistemas de Procesamiento de Datos
-### Trabajo Practico N°1 - Cronometro Binario
+# SISTEMA DE PROCESAMIENTO DE DATOS - UTN
+## Trabajo Practico N°1 - Cronometro Binario
+### Curso 2022
+### Grupo: "Los Pollos Hermanos"
+
+- Castello Thiago
+- Forni Gonzalo
+- Gatti Ignacio Pablo
+- Heredia Facundo
