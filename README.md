@@ -1,4 +1,4 @@
-# SISTEMA DE PROCESAMIENTO DE DATOS - UTN FRA- 2022
+# SISTEMA DE PROCESAMIENTO DE DATOS - UTN FRA 
 ## Trabajo Practico N°1 - Cronometro Binario
 ### Curso 2022
 ### Grupo: "Los Pollos Hermanos"
@@ -7,3 +7,5 @@
 - Forni Gonzalo
 - Gatti Ignacio Pablo
 - Heredia Facundo
+
+### Link del TP: https://www.tinkercad.com/things/gcWDJF2xLUa
