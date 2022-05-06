@@ -1,3 +1,3 @@
-                                                                  # SPD2022_TPS
+# SPD2022_TPS
 UTN - Sistemas de Procesamiento de Datos
-# Trabajo Practico N°1 - Cronometro Binario
+### Trabajo Practico N°1 - Cronometro Binario
