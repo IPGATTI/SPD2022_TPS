@@ -10,7 +10,7 @@
 
 ### Link del TP: https://www.tinkercad.com/things/gcWDJF2xLUa
 
-## Trabajo Practico N°1 - Sistema de cerradura inteligente con codigo
+## Trabajo Practico N°2 - Sistema de cerradura inteligente con codigo
 ### Curso 2022
 ### Grupo: "Los Pollos Hermanos"
 
