@@ -19,4 +19,4 @@
 - Gatti Ignacio Pablo
 - Heredia Facundo
 
-### Link del TP: https://www.tinkercad.com/things/gcWDJF2xLUa
+### Link del TP: https://www.tinkercad.com/things/0xB2gM6R9Um
